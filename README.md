@@ -11,4 +11,6 @@ In this project, we will attempt to:
 
 Visit the repo's [issues](https://github.com/GlacioHack/GlacierUtils/issues) for a list of ideas and add your own.
 
+For those interested in participating, Fabien will do a short intro on the RGItools and OGGM-shop functionalities, after which you can decide if that's something you want to contribute to!
+
 Eventually, some tools could be added to the established [RGItools](https://rgitools.readthedocs.io) repository if there is interest.
