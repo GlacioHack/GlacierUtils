@@ -1,4 +1,4 @@
-# GLacioHack 2020, first edition: GlacierUtils
+# GlacioHack 2020, first edition: GlacierUtils
 
 In the meeting it was aknowledged that while their exists quite some tools to link, 
 download, parse, reproject various datasets onto the RGI (or any other glacier inventory), 
